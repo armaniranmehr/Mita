@@ -1,0 +1,16 @@
+{
+    "portBindings": [
+        {
+            "port": 5060,
+            "protocol": "UDP"
+        }
+    ],
+    "users": [
+        {
+            "name": "XMYkzZK-tkrHoi03JwCiCg",
+            "password": "exR7mHIZ6aL4sXphXLEqRQ"
+        }
+    ],
+    "loggingLevel": "INFO",
+    "mtu": 1500
+}
