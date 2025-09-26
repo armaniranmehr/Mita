@@ -9,7 +9,7 @@ StartLimitIntervalSec=60
 Type=exec
 User=root
 Group=root
-Environment="MITA_CONFIG_JSON_FILE=/roor/mfolder/config.json"
+Environment="MITA_CONFIG_JSON_FILE=/root/mfolder/config.json"
 Environment="MITA_LOG_NO_TIMESTAMP=true"
 ExecStart=/root/mfolder/mita run
 Nice=-10
