@@ -1,5 +1,5 @@
 [Unit]
-Description=Mita proxy server
+Description=Mieru proxy server
 After=network-online.target network.service networking.service NetworkManager.service systemd-networkd.service
 Wants=network-online.target
 StartLimitBurst=5
